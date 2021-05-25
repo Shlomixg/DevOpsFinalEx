@@ -20,7 +20,7 @@
 	<div class="timer">
         <%
             Date dNow = new Date();
-            SimpleDateFormat ft = new SimpleDateFormat ("EEE, dd/MM/yyyy, hh:mm:ss");
+            SimpleDateFormat ft = new SimpleDateFormat ("EEE, dd/MM/yyyy, HH:mm:ss");
             out.print(ft.format(dNow));
         %>
     </div>
