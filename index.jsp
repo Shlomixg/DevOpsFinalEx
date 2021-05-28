@@ -15,7 +15,7 @@
 
 <body>
 	<div class="header">
-		Today's date
+		Today's date:
 	</div>
 	<div class="timer">
         <%
