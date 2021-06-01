@@ -44,10 +44,20 @@ button:hover {
 }
 
 .timer {
-    min-height: 40px;
+    min-height: 50px;
     margin: 50px 10px;
     text-align: center;
     font-size: 1.75em;
+    font-weight: 400;
+    color: #fca311;
+    transition: all 0.5s linear;
+}
+
+.timer {
+    min-height: 40px;
+    margin: 50px 10px;
+    text-align: center;
+    font-size: 0.9em;
     font-weight: 400;
     color: #fca311;
     transition: all 0.5s linear;

@@ -24,6 +24,9 @@
             out.print(ft.format(dNow));
         %>
     </div>
+	<div class="about">
+		Kobi Hadad, Shlomi Hafif, Tomer Carmel &copy; 2021
+	</div>
 </body>
 
 </html>
